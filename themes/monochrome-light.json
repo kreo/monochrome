@@ -213,12 +213,6 @@
 			}
 		},
 		{
-			"scope": "none",
-			"settings": {
-				"foreground": "#393939"
-			}
-		},
-		{
 			"scope": "keyword.operator",
 			"settings": {
 				"foreground": "#393939"
@@ -285,18 +279,6 @@
 			}
 		},
 		{
-			"scope": "none",
-			"settings": {
-				"foreground": "#676767"
-			}
-		},
-		{
-			"scope": "none",
-			"settings": {
-				"foreground": "#676767"
-			}
-		},
-		{
 			"scope": "constant",
 			"settings": {
 				"foreground": "#676767"
@@ -324,12 +306,6 @@
 			"scope": "meta.selector",
 			"settings": {
 				"foreground": "#6C6C6C"
-			}
-		},
-		{
-			"scope": "none",
-			"settings": {
-				"foreground": "#676767"
 			}
 		},
 		{
